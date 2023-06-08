@@ -1,3 +1,6 @@
+<img src="Screenshot_20230608_131059.png" width = 60% height = 30%>
+<img src="Screenshot_20230608_131221.png" width = 60% height = 30%>
+
 Dogglers - Starter Code
 ==================================
 
